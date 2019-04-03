@@ -1402,8 +1402,8 @@ const styles = {
             zIndex: 0
         },
         pipImage: {
-            width: 51,
-            height: 51,
+            width: 25,
+            height: 25,
             resizeMode: 'contain',
             tintColor: 'rgba(255, 255, 255, 0.5)'
         },
