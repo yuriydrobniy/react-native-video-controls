@@ -1402,10 +1402,10 @@ const styles = {
             zIndex: 0
         },
         pipImage: {
-            width: 51,
-            height: 51,
+            width: 34,
+            height: 34,
             resizeMode: 'contain',
-            tintColor: 'rgba(255, 255, 255, 0.5)'
+            tintColor: 'rgba(255, 255, 255, 0.9)'
         },
         title: {
             alignItems: 'center',
