@@ -3,6 +3,7 @@ Pod::Spec.new do |s|
   s.name         = "RNVideoControls"
   s.version      = "1.0.0"
   s.summary      = "RNVideoControls"
+  s.homepage     = "https://github.com/yuriydrobniy/react-native-video-controls"
   s.description  = <<-DESC
                   RNVideoControls
                    DESC
@@ -21,4 +22,3 @@ Pod::Spec.new do |s|
 
 end
 
-  
